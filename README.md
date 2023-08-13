@@ -1,6 +1,6 @@
 # Interactive-Care-Assignment
 
-###   Steps of running script.py file 
+##   Steps of running script.py file 
 
 Step-1:   Make a directory in your local computer. use below command for making directory. 
 mkdir myproject 
