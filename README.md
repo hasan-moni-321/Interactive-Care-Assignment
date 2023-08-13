@@ -28,5 +28,5 @@ pip install aspose-pdf
 pip install nltk   
 pip install tensorflow   
 
-Step-7: Run the script.py file using below command. 
+Step-7: Run the script.py file using below command.   
 python script.py
