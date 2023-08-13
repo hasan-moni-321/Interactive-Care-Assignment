@@ -54,7 +54,7 @@ Step-9:  Check! A directory named output_data should create in the myproject fol
 1. Increase the number of meaningful data.
 2. Drop the Outlier (I didn't drop the outlier because of the small dataset).
 3. Drop the Duplicate data (I didn't drop duplicate data because of the small dataset).
-4. Test with Different Regression Machine Learning Model and Choose the best one for example Bayesian Linear Regression, Polynomial Regression, Lasso Regression, SVM.
+4. Test with Different Classification Machine Learning Model and Choose the best one for example T5 pretrained model, BERT
 5. Use Skopt, Optuna Libraries for Hyperparameter Tuning.
 6. Increase the Number of Features and choose the most correlated features for training.
 7. Use Tensorflow Keras Tuner for Hyperparameter Tuning of Deep Neural Network.
