@@ -1,6 +1,6 @@
 # Interactive-Care-Assignment
 
-Everything I did in my Linux(Ubuntu 22.04) Operating System. I used terminal for running script.py file    
+##   Everything I did in my Linux(Ubuntu 22.04) Operating System. I used terminal for running script.py file    
 
 ##   Steps of running script.py file 
 
