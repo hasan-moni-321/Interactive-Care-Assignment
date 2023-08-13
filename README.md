@@ -16,7 +16,7 @@ git clone https://github.com/hasan-moni-321/Interactive-Care-Assignment
 Step-4:   Download the trained model from the below link. 
 https://drive.google.com/drive/u/0/folders/1ZVC4RkzsSuROPVVsoNWJy8AjyN43CGCA
 
-Step-5: keep the downloaded model in the myproject directory
+Step-5: keep the downloaded model in the myproject directory 
 
 
 Step-6: install framework and libraries. Run below command in your terminal one by one.  
@@ -30,3 +30,6 @@ pip install tensorflow
 
 Step-7: Run the script.py file using below command.   
 python script.py
+
+
+Step-8:  Check! A directory named output_data should create in the myproject folder. Where pdf file will generated in categorized folder. And Categorized_resume.csv file will generated.  
