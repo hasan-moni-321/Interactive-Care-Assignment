@@ -29,7 +29,7 @@ cd Interactive-Care-Assignment
 
 
 Step-5:   Download the trained model from the below link. 
-https://drive.google.com/drive/u/0/folders/1ZVC4RkzsSuROPVVsoNWJy8AjyN43CGCA
+https://drive.google.com/file/d/14t0c-ziQ2_V_rhbGvFoeAlLITYMjhp8h/view?usp=sharing
 
 
 Step-6: keep the downloaded model in the Interactive-Care-Assignment directory. Don't change the model name! 
