@@ -2,8 +2,16 @@
 
 Steps of running script.py file 
 
-step-1: Clone the repository. Use below code for cloning the repository.   
+Step-1:   Make a directory in your local computer. use below command for making directory. 
+mkdir myproject 
+
+Step-2: got to the myproject directory. Use below command to go to myproject directory. 
+cd myproject 
+
+Step-3:   Clone the repository. Use below code for cloning the repository.   
 git clone https://github.com/hasan-moni-321/Interactive-Care-Assignment
+
+Step-4:   
 
 
 
