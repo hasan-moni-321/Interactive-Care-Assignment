@@ -4,21 +4,21 @@
 
 ##   Steps of running script.py file 
 
-Step-1:   Make a directory in your local computer. use below command for making directory. 
+Step-1:   Make a directory in your local computer. use below command for making directory.   
 mkdir myproject 
 
 
-Step-2: got to the myproject directory. Use below command to go to myproject directory. 
+Step-2: got to the myproject directory. Use below command to go to myproject directory.   
 cd myproject 
 
 
-Step-3:   Clone the repository. Use below code for cloning the repository.   
+Step-3:   Clone the repository. Use below code for cloning the repository.     
 git clone https://github.com/hasan-moni-321/Interactive-Care-Assignment
 
 Step-4:   Download the trained model from the below link. 
 https://drive.google.com/drive/u/0/folders/1ZVC4RkzsSuROPVVsoNWJy8AjyN43CGCA
 
-Step-5: keep the downloaded model in the myproject directory 
+Step-5: keep the downloaded model in the myproject directory. Don't change the model name! 
 
 
 Step-6: install framework and libraries. Run below command in your terminal one by one.  
