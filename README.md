@@ -1,4 +1,10 @@
-# Interactive-Care-Assignment
+# Interactive-Care-Assignment  
+
+##   About Files
+1. categorized_resume.csv file is the generated file after running the script.py file
+2. english_stopwords.txt file for cleaning the dataset
+3. resume_classification.ipynb file for loading data, cleaning data, Exploratory Data Analysis, feature engineering, model building, model training, model analysis, model testing, model downloading etc.    
+
 
 ##   Everything I did in my Linux(Ubuntu 22.04) Operating System. I used terminal for running script.py file    
 
@@ -44,4 +50,4 @@ Step-9:  Check! A directory named output_data should create in the myproject fol
 
 
 
-Note: model size is 433.9 MB. That is large size of model. For that I kept the model in my Google Drive.    
+Note: model size is 433.9 MB. That is large size of model. For that I kept the model in my Google Drive. I used only 15 pdf files for running script.py file. Those 15 pdf file are located in the input_data directory. 
