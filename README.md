@@ -1,5 +1,7 @@
 # Interactive-Care-Assignment
 
+Everything I did in my Linux(Ubuntu 22.04) Operating System. I used terminal for running script.py file    
+
 ##   Steps of running script.py file 
 
 Step-1:   Make a directory in your local computer. use below command for making directory. 
