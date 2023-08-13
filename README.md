@@ -1,9 +1,11 @@
 # Interactive-Care-Assignment  
 
 ##   About Files
-1. categorized_resume.csv file is the generated file after running the script.py file
-2. english_stopwords.txt file for cleaning the dataset
-3. resume_classification.ipynb file for loading data, cleaning data, Exploratory Data Analysis, feature engineering, model building, model training, model analysis, model testing, model downloading etc.    
+1. input_data folder carrying some pdf file for testing with script.py file 
+2. categorized_resume.csv file is the generated file after running the script.py file
+3. english_stopwords.txt file for cleaning the dataset
+4. resume_classification.ipynb file for loading data, cleaning data, Exploratory Data Analysis, feature engineering, model building, model training, model analysis, model testing, model downloading etc.    
+5. script.py file is the main file for running.
 
 
 ##   Everything I did in my Linux(Ubuntu 22.04) Operating System. I used terminal for running script.py file    
