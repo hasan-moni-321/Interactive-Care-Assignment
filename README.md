@@ -48,8 +48,19 @@ Step-8: Run the script.py file using below command.
 python script.py
 
 
-Step-9:  Check! A directory named output_data should create in the myproject folder. Where pdf file will generated in categorized folder. And Categorized_resume.csv file will generated.    
+Step-9:  Check! A directory named output_data should create in the myproject folder. Where pdf file will generated in categorized folder. And Categorized_resume.csv file will generated.  
+
+##   How to Increase Accuracy  
+1. Increase the number of meaningful data.
+2. Drop the Outlier (I didn't drop the outlier because of the small dataset).
+3. Drop the Duplicate data (I didn't drop duplicate data because of the small dataset).
+4. Test with Different Regression Machine Learning Model and Choose the best one for example Bayesian Linear Regression, Polynomial Regression, Lasso Regression, SVM.
+5. Use Skopt, Optuna Libraries for Hyperparameter Tuning.
+6. Increase the Number of Features and choose the most correlated features for training.
+7. Use Tensorflow Keras Tuner for Hyperparameter Tuning of Deep Neural Network.
 
 
 
-Note: model size is 433.9 MB. That is large size of model. For that I kept the model in my Google Drive. I used only 15 pdf files for running script.py file. Those 15 pdf file are located in the input_data directory. 
+Note: model size is 433.9 MB. That is large size of model. For that I kept the model in my Google Drive. I used only 15 pdf files for running script.py file. Those 15 pdf file are located in the input_data directory.  
+
+
