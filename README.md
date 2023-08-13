@@ -15,13 +15,16 @@ cd myproject
 Step-3:   Clone the repository. Use below code for cloning the repository.     
 git clone https://github.com/hasan-moni-321/Interactive-Care-Assignment
 
-Step-4:   Download the trained model from the below link. 
+Step-4:   Got to the Interactive-Care-Assignment folder using below command.  
+cd Interactive-Care-Assignment
+
+Step-5:   Download the trained model from the below link. 
 https://drive.google.com/drive/u/0/folders/1ZVC4RkzsSuROPVVsoNWJy8AjyN43CGCA
 
-Step-5: keep the downloaded model in the myproject/Interactive-Care-Assignment directory. Don't change the model name! 
+Step-6: keep the downloaded model in the Interactive-Care-Assignment directory. Don't change the model name! 
 
 
-Step-6: install framework and libraries. Run below command in your terminal one by one.  
+Step-7: install framework and libraries. Run below command in your terminal one by one.  
 
 pip install numpy   
 pip install pandas   
@@ -30,10 +33,10 @@ pip install aspose-pdf
 pip install nltk   
 pip install tensorflow   
 
-Step-7: Run the script.py file using below command.   
+Step-8: Run the script.py file using below command.   
 python script.py
 
 
-Step-8:  Check! A directory named output_data should create in the myproject folder. Where pdf file will generated in categorized folder. And Categorized_resume.csv file will generated.    
+Step-9:  Check! A directory named output_data should create in the myproject folder. Where pdf file will generated in categorized folder. And Categorized_resume.csv file will generated.    
 
 Note: model size is 433.9 MB. That is large size of model. For that I kept the model in my Google Drive.    
