@@ -16,9 +16,9 @@ git clone https://github.com/hasan-moni-321/Interactive-Care-Assignment
 
 Step-4: install framework and libraries. Run below command in your terminal one by one.  
 
-pip install numpy
-pip install pandas
-pip install PyPDF2 
-pip install aspose-pdf
-pip install nltk
-pip install tensorflow
+pip install numpy 
+pip install pandas 
+pip install PyPDF2  
+pip install aspose-pdf 
+pip install nltk 
+pip install tensorflow 
