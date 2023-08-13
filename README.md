@@ -59,6 +59,11 @@ Step-9:  Check! A directory named output_data should create in the myproject fol
 6. Increase the Number of Features and choose the most correlated features for training.
 7. Use Tensorflow Keras Tuner for Hyperparameter Tuning of Deep Neural Network.
 
+## Limitation of this Project 
+
+1. Scarcity of the meaningful data in the dataset  
+2. Short time (given dataset is messy data. Need more and more time for best feature engineering)  
+
 
 
 Note: model size is 433.9 MB. That is large size of model. For that I kept the model in my Google Drive. I used only 15 pdf files for running script.py file. Those 15 pdf file are located in the input_data directory.  
