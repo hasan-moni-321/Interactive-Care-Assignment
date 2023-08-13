@@ -18,7 +18,7 @@ git clone https://github.com/hasan-moni-321/Interactive-Care-Assignment
 Step-4:   Download the trained model from the below link. 
 https://drive.google.com/drive/u/0/folders/1ZVC4RkzsSuROPVVsoNWJy8AjyN43CGCA
 
-Step-5: keep the downloaded model in the myproject directory. Don't change the model name! 
+Step-5: keep the downloaded model in the myproject/Interactive-Care-Assignment directory. Don't change the model name! 
 
 
 Step-6: install framework and libraries. Run below command in your terminal one by one.  
